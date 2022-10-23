@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Garcia_MySpinner</string>
+    <string-array name="favorites">
+        <item>Food</item>
+        <item>Places</item>
+        <item>Movie</item>
+        <item>Artist</item>
+    </string-array>
+</resources>
